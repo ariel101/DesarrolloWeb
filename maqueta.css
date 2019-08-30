@@ -1,0 +1,40 @@
+#cabecera{
+	width: 100%;
+	height: 90px;
+	background-color: #bbbbbb;
+}
+#cabecera,h2{
+	text-align: center;
+	color: #888888;
+	margin: 0;
+}
+div#contenedor{
+	margin: 0px;
+	width: 100%;
+	height: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #808080;
+}
+#derecha{
+	float: right;
+	background-color: #cccccc;
+	width: 200px;
+	height: 500px;
+}
+#izquierda{
+	float: left;
+	background-color: #cccccc;
+	width: 200px;
+	height: 500px;
+}
+#pie{
+	width: 100%;
+	height: 50px;
+	background-color: #bbbbbb;
+}
+#pie,p{
+	margin: 0;
+	text-align: center;
+	color: #777777;
+}
