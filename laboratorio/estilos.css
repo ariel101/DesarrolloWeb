@@ -1,0 +1,62 @@
+#cuerpo{
+	text-align: center;
+	width: 900px;
+	height: 500px;
+	margin-left: 150px;
+}
+#maqueta{
+	border: 1px solid black;
+	text-align: center;
+	width: 900px;
+	height: 200px;
+	background: #A9C8E0;
+}
+#maqueta2{
+	border: 1px solid black;
+	border-left: 0px;
+	border-top: 0px;
+	width: 900px;
+	height:  220px;
+	float: right;
+	background: #E3EBF1;
+
+}
+#maqueta2,p{
+	text-align: left;
+}
+#maqueta3{
+	border: 1px solid black;
+	border-top: 0px;
+	float: left;
+	width: 120px;
+	height: 220px;
+	background: #555656;
+
+}
+#maqueta4{
+	text-align: center;
+	border: 1px solid black;
+	width: 90px;
+	height: 150px;
+	margin-left: 8px;
+	margin-top: 22px;
+	background: #F6FAFA;
+
+}
+#maqueta4,a{
+	text-decoration: none;
+	text-align: center;
+}
+#maqueta4,ul{
+	list-style: none;
+	padding-left: 0px;
+	padding-top: 0px;
+}
+#horario,tr,th,td{
+	border: 1px solid black;
+}
+#horario,table{
+	border-collapse: collapse;
+	width: 760px; 
+	height: 200px;
+}
